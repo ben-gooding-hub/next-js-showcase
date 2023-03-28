@@ -2,6 +2,10 @@
   "name": "next-js-showcase",
   "version": "0.1.0",
   "private": true,
+  "volta": {
+    "node": "18.15.0",
+    "yarn": "4.0.0-rc.41"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
